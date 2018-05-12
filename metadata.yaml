@@ -1,0 +1,32 @@
+_repo: Le-m-nagier-de-Paris--v.-1--amp--2-_44070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44070-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44070'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Early works to 1800'
+- !lcsh 'Home economics -- France -- Early works to 1800'
+- !lcsh 'Paris (France) -- Social life and customs -- Early works to 1800'
+- !lcc 'TX'
+- !lcsh 'Cooking, French -- Early works to 1800'
+title: Le ménagier de Paris (v. 1 & 2)
+url: http://www.gutenberg.org/ebooks/44070
